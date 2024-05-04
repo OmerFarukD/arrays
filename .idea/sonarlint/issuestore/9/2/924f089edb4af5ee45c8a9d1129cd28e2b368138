@@ -1,0 +1,29 @@
+
+
+java:S1192("KDefine a constant instead of duplicating this literal "Macaristan" 4 times.(°ùíú8Œİ•™ô1J$e9445cb1-aebe-43f7-a6e6-ddefc3247327
+]
+java:S1220""Move this file to a named package.8Œİ•™ô1J$e7652170-5e5c-459e-a965-c5d1d95914cb
+
+java:S1854	"<Remove this useless assignment to local variable "sehirler".(åúâ8‘İ•™ô1J$769f2a91-e545-499a-8d11-4ff4aef9f867
+z
+java:S1135"2Complete the task associated to this TODO comment.(ÀĞÎ—üÿÿÿÿ8’İ•™ô1J$4d7a566c-cd14-49ea-a402-ce7bc7a8036c
+p
+java:S1481	"-Remove this unused "sehirler" local variable.(åúâ8’İ•™ô1J$30b3b4ad-aa10-4b70-b99a-c87411896c12
+~	java:S125"<This block of commented-out lines of code should be removed.(êé’š8’İ•™ô1J$ba3e5f2c-fd3a-47d3-a951-f028f5e38b43
+}	java:S125"<This block of commented-out lines of code should be removed.(ˆ¾¾8’İ•™ô1J$e830812f-d30a-4b22-8af3-d49a16e059bf
+~	java:S125"<This block of commented-out lines of code should be removed.(ùçŞ©8“İ•™ô1J$b05e47d6-327b-46be-abae-972a96d8ae34
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç¿ğ·ùÿÿÿÿ8“İ•™ô1J$7c3c3b95-5ea4-4fac-9587-e6b662a4fa00
+z
+java:S1135'"2Complete the task associated to this TODO comment.(ÛÕ¤›øÿÿÿÿ8“İ•™ô1J$a092f12f-988b-4656-93ef-4f9e35d3856a
+r	java:S106*"+Replace this use of System.out by a logger.(¼àÚ˜ûÿÿÿÿ8”İ•™ô1J$0b68e32b-b785-4399-bbb3-a3cdaf7c7dff
+r	java:S106+"+Replace this use of System.out by a logger.(¿û¿¯ıÿÿÿÿ8”İ•™ô1J$bb66e64b-baea-4ce5-87bb-a754efa99f49
+m	java:S106,"+Replace this use of System.out by a logger.(•ö–ÿ8”İ•™ô1J$f1027603-1835-497f-8224-f95ded0e90c7
+r	java:S106-"+Replace this use of System.out by a logger.(Á¾şøÿÿÿÿ8”İ•™ô1J$564e95e2-5946-495f-8d72-aaa5e907798a
+m	java:S106."+Replace this use of System.out by a logger.(Òì­“8”İ•™ô1J$b7991527-441d-4fb4-89f6-2e23d900f3d2
+r	java:S106/"+Replace this use of System.out by a logger.(ÌÛ¸èúÿÿÿÿ8•İ•™ô1J$8cbe31b6-b249-4800-b326-b763e6709ced
+r	java:S1060"+Replace this use of System.out by a logger.(æÛáÄøÿÿÿÿ8•İ•™ô1J$1767f4bf-20d4-4453-867a-8e63a1326845
+~	java:S1253"<This block of commented-out lines of code should be removed.(Â¸­À8•İ•™ô1J$d281a3df-957d-4c22-a3da-70420e026d9c
+ƒ
+java:S16128"@Replace this lambda with method reference 'System.out::println'.(ÙöÈ8ü›š™ô1J$4a8f2804-4ed4-4d31-a541-612889cba7a5
+m	java:S1068"+Replace this use of System.out by a logger.(ÙöÈ8Ê…š™ô1J$3d6a03e3-0f20-4e3d-a201-12bc0e22a46d
+r	java:S106="+Replace this use of System.out by a logger.(¼Óüåøÿÿÿÿ8ı›š™ô1J$53c3700d-54f8-40e6-b21c-a5f5c93a4f3e
